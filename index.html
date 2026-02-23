@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="home-intro">
+  <h1>Clanton Wood</h1>
+  <p>Building things, breaking systems, figuring out the rest as I go.</p>
+</div>
+
+<ul class="post-list">
+  {% for post in site.posts %}
+  <li class="post-list-item">
+    <a href="{{ post.url | relative_url }}">
+      <div class="post-list-meta">
+        <span class="post-list-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+        <span class="sep">·</span>
+        {% assign words = post.content | number_of_words %}
+        {% assign minutes = words | divided_by: 230 %}
+        {% if minutes < 1 %}{% assign minutes = 1 %}{% endif %}
+        <span class="post-list-reading-time">{{ minutes }} min read</span>
+      </div>
+      <div class="post-list-title">{{ post.title }}</div>
+      {% if post.excerpt %}
+      <div class="post-list-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</div>
+      {% endif %}
+    </a>
+  </li>
+  {% endfor %}
+</ul>

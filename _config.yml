@@ -1,0 +1,26 @@
+title: Clanton Wood
+description: Building things, breaking systems, figuring out the rest as I go.
+url: "https://cwood1992.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: /:title/
+
+# Build settings
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+
+# Collections
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
