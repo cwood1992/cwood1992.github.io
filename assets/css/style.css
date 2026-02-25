@@ -162,7 +162,12 @@ main {
   font-family: var(--font-heading); font-size: 1.1rem;
 }
 
-.post-content img { max-width: 100%; height: auto; border-radius: 4px; margin: 2em 0; }
+.post-content img { max-width: 100%; height: auto; border-radius: 4px; margin: 2em 0 0.5em; display: block;}
+
+.post-content .caption {
+  font-size: 0.85rem; color: var(--color-text-secondary); font-style: italic;
+  text-align: center; margin: 0 0 2em; line-height: 1.4;
+}
 
 .post-content a {
   color: var(--color-accent); text-decoration: underline;

@@ -7,6 +7,7 @@ subtitle: "What the Administration Claims vs What the Records Show"
 # Provable Lies: What the Administration Claims vs. What the Records Show
 
 ![The U.S. Department of Justice building with a Trump banner displayed on its facade, National Guard troops standing at the entrance. (AP Photo)](https://dims.apnews.com/dims4/default/95ef12b/2147483647/strip/true/crop/2073x1381+0+0/resize/980x653!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9d%2F50%2Fb005497b477b27aaa5181711cbf6%2Fb152d96b72aa4d1da142575814a919c6)
+<p class="caption">Source: Associated Press</p>
 
 > "Choose your leaders with wisdom and forethought. To be led by a coward is to be controlled by all that the coward fears. To be led by a fool is to be led by the opportunists who control the fool. To be led by a thief is to offer up your most precious treasures to be stolen. To be led by a liar is to ask to be told lies. To be led by a tyrant is to sell yourself and those you love into slavery."
 >
@@ -125,6 +126,7 @@ That's El Salvador. This is Texas.
 - Geraldo Lunas Campos, 55, died at [Camp East Montana](https://en.wikipedia.org/wiki/Camp_East_Montana). An eyewitness said guards choked him while he repeated **"No puedo respirar"**—"I can't breathe." The El Paso County medical examiner has **classified the death as a likely homicide**. Two more people died at the same facility within 44 days of Campos. ([Washington Post](https://www.washingtonpost.com/business/2025/09/16/ice-detention-center-immigration-violations/); [Popular Information](https://popular.info/p/in-2026-ice-detainees-are-dying-at))
 
 ![Senator Ossoff's detention oversight report documenting 1,037 credible reports of human rights abuses in immigration detention, including 36 confirmed deaths in custody. January 20, 2025 – January 12, 2026. (U.S. Senate)](/assets/images/ossoff-detention-report.png)
+<p class="caption">Source: Office of U.S. Senator Jon Ossoff</p>
 
 **Camp East Montana (Fort Bliss):**
 
@@ -175,6 +177,7 @@ For 60 years, ICE required judicial warrants to enter homes. Now agents are trai
 **DHS Secretary Kristi Noem, October 30, 2025:** "No American citizens have been arrested or detained. We focus on those who are here illegally."
 
 ![Senate Permanent Subcommittee on Investigations report documenting more than 170 U.S. citizens detained by ICE in 2025, including minors and veterans. (U.S. Senate)](/assets/images/senate-citizens-detained-report.png)
+<p class="caption">Source: U.S. Senate Permanent Subcommittee on Investigations Report</p>
 
 **What the Senate documented:**
 
@@ -232,6 +235,7 @@ This isn't a contested legal question. For 140 years, the Court has held that co
 - A federal court ordered the **immediate release of all detained refugees in Minnesota** and a halt to arrests of lawfully resettled refugees under Operation PARRIS ([IRAP](https://refugeerights.org/news-resources/court-orders-ice-to-stop-unlawful-arrest-and-detention-of-refugees))
 
 ![Appendix to Judge Schiltz's order listing 96 court orders ICE violated in 74 cases in January 2026 alone — a list the judge called "almost certainly substantially understated." (U.S. District Court, District of Minnesota)](/assets/images/schiltz-96-violations-appendix.png)
+<p class="caption">Source: U.S. District Court, District of Minnesota Judge Schiltz Ruling</p>
 
 On March 15, 2025, a federal judge ordered deportation flights to turn around. The administration let them continue. El Salvador's President Bukele tweeted "Oopsie...too late." Secretary of State Rubio retweeted it. ([ACLU case summary](https://www.acludc.org/cases/jgg-v-trump-challenging-unlawful-use-alien-enemies-act-1789-deport-immigrants-without-due/))
 
@@ -410,6 +414,7 @@ They could walk away. Others can not.
 **Jerce Reyes Barrios** — The Venezuelan soccer coach was released from CECOT in July 2025 as part of a prisoner swap. He was returned to Venezuela—the country he fled for protesting the Maduro regime. His asylum hearing had been scheduled for April 17, 2025. He never got to present his case. He was never charged with any crime. ([ABC News](https://abcnews.go.com/US/dreaming-soccer-coach-deported-tattoo-celebrates-release-cecot/story?id=124075548))
 
 ![First page of the Supreme Court's unanimous ruling in the Abrego Garcia case — all nine justices, including Trump appointees, found the deportation unlawful. (Supreme Court of the United States)](/assets/images/scotus-abrego-garcia-ruling.png)
+<p class="caption">Source: Supreme Court of the United States U.S. DHLS v. Kilmar Armando Abrego Garcia</p>
 
 **Kilmar Abrego Garcia** — After spending months in CECOT, being returned to face federal human smuggling charges (which he denies), being detained again, and being released again, Abrego Garcia is home in Maryland with his American wife and children. In a [31-page opinion](https://wearecasa.org/judge-orders-kilmar-abrego-garcia-released-from-immigration-detention/), Judge Xinis found the government held him **without a valid removal order**—the basic legal document required to deport anyone. The government produced two witnesses at separate hearings; both candidly admitted they had never seen a removal order for Abrego Garcia. Judge Xinis also found the government **misled the court** about Costa Rica's willingness to accept him as a refugee. His January 2026 criminal trial was postponed due to a backlog of motions, including whether the [prosecution is vindictive](https://www.cbsnews.com/news/abrego-garcia-prosecution-push-began-after-wrongful-deportation-court-order/). The government attempted deportation to four African countries—Uganda, Eswatini, Ghana, and Liberia—all nations where Abrego Garcia has no ties and does not speak the language. The first three publicly refused. He remains willing to go to Costa Rica; the government refuses. A ruling on whether he can be re-detained was expected by February 12. Two other men wrongfully deported to El Salvador in similar fashion have **not been returned**. ([Lawfare](https://www.lawfaremedia.org/article/the-situation--one-judicial-opinion-that-sums-up-everything); [NPR](https://www.npr.org/2026/02/03/g-s1-108426/trump-kilmar-abrego-garcia-immigration-mistaken-deportations))
 
