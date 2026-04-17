@@ -14,7 +14,7 @@ subtitle: "The Epistemic Collapse"
 *The public didn't stop trusting institutions because of a demagogue. They stopped because institutions spent the better part of four decades earning that distrust; through definitive claims that proved false, quiet reversals without accountability, and a consistent pattern of treating anyone who noticed as a conspiracy theorist.*
 
 ---
-![My Father's Shelf showing two fallen soliders flags and mug reading "I love my country it's the government I am afraid of](/assests/images/I_love_My_Country.jpg) 
+![My Father's Shelf showing two fallen soliders flags and mug reading "I love my country it's the government I am afraid of](\assets\images\I_Love_My_Country.jpg) 
 On February 29, 2020, Surgeon General Jerome Adams tweeted: "Seriously people — STOP BUYING MASKS!" Eight days later, Anthony Fauci told 60 Minutes that Americans "should not be walking around with masks." Five weeks after that, the CDC reversed course and recommended cloth face coverings for all Americans.
 
 That alone would have been manageable. Science updates its conclusions. That's supposed to be a feature, not a bug. But the reversal came with no honest reckoning. No one said: "We discouraged mask use in part to preserve supply for healthcare workers, and we should have been transparent about that tradeoff." Instead the messaging simply shifted, as if the previous position had never existed, and anyone who remembered being told not to buy masks was treated as though they were imagining things.
