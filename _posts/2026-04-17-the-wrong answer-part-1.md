@@ -1,5 +1,5 @@
 ---
-title: "The Wrong Anwer the the Right Questions Part One"
+title: "The Wrong Anwer to the Right Questions Part One"
 date: 2026-04-17
 subtitle: "The Epistemic Collapse"
 ---
